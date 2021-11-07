@@ -23,7 +23,7 @@ closeIcon.onclick = () => {
 }
 
  /* Initialize Swiper for slider*/
-var swiper = new Swiper(".home-slider", {
+var swiper = new Swiper(".hero-slider", {
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
